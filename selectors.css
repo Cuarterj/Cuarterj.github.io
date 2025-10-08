@@ -1,0 +1,46 @@
+p   {
+    color:darkslategray;
+    background-color: darkkhaki;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+audio   {
+    background-color: slateblue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics    {
+    font-style: italic;
+}
+
+#fun-facts  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+#title    {
+    font-size: 60px;
+    color: plum;
+    font-family:monospace;
+}
+
+
+.bold.italics   {
+    background-color: pink;
+}
+
+p.bold  {
+    color:goldenrod;
+    background-color: bisque;
+}
+
+* li {
+    background-color: lightseagreen;
+}
