@@ -6,7 +6,9 @@ hello world.
             <title><!-- Your page title --></title>
         </head>
         <body>
-		<!-- Your page content goes here. -->
+			<!-- Your page content goes here. -->
+		
+			<a href="blog.html">Check out my blog here!</a>
         </body>
 </html>
 
