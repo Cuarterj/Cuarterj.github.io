@@ -1,0 +1,16 @@
+html    {
+    font-family: Arial, Helvetica, sans-serif;
+    /** generic font-family examples: sans-serif, serif, monospace, cursive, fantasy**/
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-weight: 300;
+
+    /* color:rgb(155, 128, 022); */
+    /* color: #2173ff; */
+    color: rgba(015, 212, 200, 0.7)
+}
+
+.freak_zone {
+    font-size: 2rem;
+    margin: 5px;
+}

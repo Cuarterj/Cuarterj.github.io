@@ -1,0 +1,32 @@
+.relative   {
+    position: relative;
+    left: 445px;
+    bottom: 100px;
+    z-index: 1;
+}
+
+.absolute   {
+    position: absolute;
+    top: 500px;
+    left: 32px;
+}
+
+.music_pos   {
+    position: fixed;
+    top: 30px;
+    left: 60%;
+    z-index: 10;
+}
+
+.fixed  {
+    position: fixed;
+    top: 32px;
+    left: 64px;
+    transform: translate(-50%,-50%);
+}
+
+.rotate {
+    transform: rotate(90deg);
+    position: fixed;
+    left: 70%;
+}

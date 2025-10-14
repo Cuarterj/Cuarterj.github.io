@@ -1,0 +1,26 @@
+#special-p  {
+    height: 100px;
+    width: 100px;
+    padding: 0px 10px 20px 30px;
+}
+
+#special-p2  {
+    height: 100px;
+    width: 100px;
+    padding-top: 17px dotted magenta;
+    border-image: url(image.jpg);
+    border-image: repeat;
+    margin: red 13px;
+}
+
+.little_box  {
+    width: 300px;
+    display: magenta;
+    padding: 100px slateblue;
+}
+
+.music_box  {
+    width: 300px;
+    background-color: rgb(25, 255, 15);
+    border: 10px dotted magenta;
+}
